@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "189713531279",
+    "firebase_url": "https://chatapp-93848.firebaseio.com",
+    "project_id": "chatapp-93848",
+    "storage_bucket": "chatapp-93848.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:189713531279:android:7953d9476e002c049a0bfa",
+        "android_client_info": {
+          "package_name": "com.MohamedKohail.flashchatnewfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "189713531279-3dronk0echbss1dbqduv4los1l48p3j8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAiy9sKiYazamTLIoiHzdDwh_lYTG70-tw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "189713531279-3dronk0echbss1dbqduv4los1l48p3j8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
